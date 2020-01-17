@@ -29,6 +29,8 @@ catch(Exception $e) {
 	die($e->getMessage());
 }
 
+var_dump($data);
+
 echo $data->ConsPuntosDisponiblesResult;
 echo '<br >';
 echo $data->mensaje;
