@@ -34,3 +34,7 @@ var_dump($data);
 echo $data->ConsPuntosDisponiblesResult;
 echo '<br >';
 echo $data->mensaje;
+echo '<br >';
+echo $data->puntosDisp;
+echo '<br >';
+echo $data->puntosxCad;
